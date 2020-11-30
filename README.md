@@ -1,5 +1,5 @@
 # Venom-Faker
-<h1>Venom Faker is a simple python tool used for generating fake profiles of different countries using faker library.</h1>
+<h3>Venom Faker is a simple python tool used for generating fake profiles of different countries using faker library.</h3>
 Currently it provide fake profile of these countries: 
 <li>India</li>
 <li>US</li>
